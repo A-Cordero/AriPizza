@@ -49,7 +49,6 @@ class DetailPizzaActivity : AppCompatActivity() {
         setAdapter()
         setDrag()
         setListeners()
-        updatePizzaCar()
     }
 
     private fun getPizza() {
@@ -580,6 +579,7 @@ class DetailPizzaActivity : AppCompatActivity() {
     }
 
     override fun onStart() {
+        updatePizzaCar()
         super.onStart()
     }
 
