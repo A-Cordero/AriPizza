@@ -15,10 +15,12 @@ en [dribble](https://dribbble.com/shots/8154883-Pizza-order-system)
  - Object Animator
  - Patrón MVVM
 
-##Sigueme en Twitter
+## Sigueme en Twitter
+
 [Twitter](https://twitter.com/anthony62411856)
 
 ## Invítame un Café 🖇️
+
 Si algun componente del proyecto o el proyecto entero te ha sido de utilidad , me ayudaria bastante
 para seguir compartiendo y desarrolando apps.
 
