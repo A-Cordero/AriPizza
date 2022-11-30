@@ -4,7 +4,7 @@
 
 ![Image text](https://github.com/A-Cordero/AriPizza/blob/35ef9ec7817bb083ea9100a260eb0920221c37f9/app/demo/Captura%20de%20pantalla%20de%202022-11-27%2022-09-04.png)
 
-App BUON APPETITO creada para el reto mensual organizado por [Mouredev](https://github.com/mouredev/Monthly-App-Challenge-2022) inspirada en el siguiente diseño 
+App inspirada en el siguiente diseño 
 en [dribble](https://dribbble.com/shots/8154883-Pizza-order-system)
 
 [Apk Demo ](https://github.com/A-Cordero/AriPizza/blob/35ef9ec7817bb083ea9100a260eb0920221c37f9/app/demo/app-debug.apk)
